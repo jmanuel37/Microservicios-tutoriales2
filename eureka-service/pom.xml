@@ -44,13 +44,7 @@
 			<artifactId>spring-cloud-starter-bootstrap</artifactId>
 		</dependency>
 		
-		<!-- https://mvnrepository.com/artifact/com.netflix.eureka/eureka-client -->
-	<dependency>
-    	<groupId>com.netflix.eureka</groupId>
-    	<artifactId>eureka-client</artifactId>
-    	<version>1.10.14</version>
-    	<scope>runtime</scope>
-	</dependency>
+
 
 	</dependencies>
 	<dependencyManagement>
